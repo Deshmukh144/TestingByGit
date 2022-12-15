@@ -17,7 +17,12 @@ public class SC1 {
 		driver.get("https://www.google.co.in/");
 		Thread.sleep(500);
 		
+		
+		
+		
+		
 	driver.findElement(By.id("q")).sendKeys("INDIA Flag");
+	Thread.sleep(500);
 	
 	
 	
