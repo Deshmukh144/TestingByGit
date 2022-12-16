@@ -13,6 +13,10 @@ public abstract class Abstract_Class {
 	public void test3()
 	{
 		System.out.println("complete method from abstract class");
+		
+		
+		
+		System.out.println("hello,How r you");
 		System.out.println("hello");
 	}
 	
